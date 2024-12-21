@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug with LLDB",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/schedule",
+            "args": ["-s", "rr", "-q", "3", "bursts_rr_3.txt"],
+            //"args": ["bursts_rr_3.txt"],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb",
+            "preLaunchTask": "Build schedule" // Matches the label of the task in tasks.json
+        }
+    ]
+}

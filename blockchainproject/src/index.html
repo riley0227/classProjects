@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SDSU Student Government Elections</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            padding: 20px;
+            max-width: 600px;
+            margin: auto;
+            background-color: #f0f0f0;
+        }
+        h1, h2 {
+            color: #003366; /* SDSU Dark Blue */
+        }
+        button {
+            background-color: #C8102E; /* SDSU Red */
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        button:hover {
+            background-color: #a00f2a;
+        }
+        input, select {
+            padding: 10px;
+            width: 100%;
+            margin-top: 10px;
+        }
+    </style>
+    <script src="https://cdn.ethers.io/lib/ethers-5.2.umd.min.js" type="application/javascript"></script>
+    <script>
+        function validateStudentID() {
+            var studentID = document.getElementById("studentID").value;
+            if (studentID.length != 9 || isNaN(studentID)) {
+                alert("Please enter a valid 9-digit Red ID.");
+                return false;
+            }
+            return true;
+        }
+    </script>
+</head>
+<body>
+    <h1>SDSU Student Government Elections</h1>
+    <label for="studentID">Enter your 9-digit Student ID:</label>
+    <input type="text" id="studentID" placeholder="123456789" maxlength="9">
+    <p id="votingTimer">Voting ends in: <span id="timeRemaining"></span></p>
+    <p>Vote for your preferred candidate for the upcoming student government positions.</p>
+    <select id="voteOption">
+        <!-- Example candidate names -->
+        <option value="1">Jane Doe - President</option>
+        <option value="2">John Smith - Vice President</option>
+        <!-- Add more candidates and positions as needed -->
+    </select>
+    <button id="voteButton" onclick="return validateStudentID()">Cast Vote</button>
+
+    <h2>Election Results</h2>
+    <ul id="votingResults"></ul>
+    <script src="app.js" type="application/javascript"></script>
+    <h2>Add Yourself as a Candidate</h2>
+    <input type="text" id="newCandidateName" placeholder="Enter your name"/>
+    <button id="addCandidateButton">Add as Candidate</button>
+</body>
+</html>

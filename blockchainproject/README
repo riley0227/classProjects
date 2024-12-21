@@ -1,0 +1,33 @@
+Setup steps with pictures in setup.pdf
+
+How to set up:
+install ganache:https://archive.trufflesuite.com/ganache/
+When creating your project you will add truffle project with path to truffle-configs
+You will need to install truffle and whatever other dependencies and libraries are in the program, should give error if you don't have them.
+
+You have to change contract address at top of app.js for now every time you deploy contract:
+const contractAddress = '0x54E9DFD9fF276B30ce82e8A7797236DEb2645aDA';
+
+Also if you change a contract or add a contract, you will have to change const contractAddress = '’; in app.js to whatever the address contract was deployed to, which would show after you truffle migrate(command below).
+
+Also you need to install and download metamask, then you will connect it to your local ganache 
+blockchain network HTTP://127.0.0.1:7545, add a network manually with these configurations and then go and be on that network:
+
+Then you add whatever accounts you need
+
+And do do this you would click add account -> import account, then copy a private key from your ganache application
+
+Where it says show keys you click on that and copy the private key and put it in enter your private key string, then your account and any account you want(infinite people) can be tested
+
+To compile migrate and run do:
+truffle compile --reset
+truffle migrate --reset
+npm run dev
+
+Or you can do 
+truffle compile --reset
+truffle migrate --reset
+python3 -m http.server 
+Then type in localhost:8000 into your browser
+
+Whatever one above works, whatever you prefer

@@ -1,0 +1,85 @@
+4 4 2 
+1 7 3 
+3 2 4 
+P0: executed cpu bursts = 3, executed io bursts = 0, time elapsed = 3, quantum expired
+P1: executed cpu bursts = 1, executed io bursts = 0, time elapsed = 4, enter io
+P2: executed cpu bursts = 3, executed io bursts = 0, time elapsed = 7, enter io
+P0: executed cpu bursts = 4, executed io bursts = 0, time elapsed = 8, enter io
+P2: executed cpu bursts = 6, executed io bursts = 2, time elapsed = 12, quantum expired
+P1: executed cpu bursts = 4, executed io bursts = 7, time elapsed = 15, completed
+P0: executed cpu bursts = 6, executed io bursts = 4, time elapsed = 17, completed
+P2: executed cpu bursts = 7, executed io bursts = 2, time elapsed = 18, completed
+P1: turnaround time = 15, wait time = 4
+P0: turnaround time = 17, wait time = 7
+P2: turnaround time = 18, wait time = 9
+
+4 4 2 
+1 7 3
+3 2 4
+P0: executed cpu bursts = 4, executed io bursts = 0, time elapsed = 4, enter io
+P1: executed cpu bursts = 1, executed io bursts = 0, time elapsed = 5, enter io
+P2: executed cpu bursts = 3, executed io bursts = 0, time elapsed = 8, enter io
+P0: executed cpu bursts = 6, executed io bursts = 4, time elapsed = 10, completed
+P2: executed cpu bursts = 7, executed io bursts = 2, time elapsed = 14, completed
+P1: executed cpu bursts = 4, executed io bursts = 7, time elapsed = 17, completed
+P0: turnaround time = 10, wait time = 0
+P2: turnaround time = 14, wait time = 5
+P1: turnaround time = 17, wait time = 6
+
+2 1 3 
+
+2 3 7 
+
+7 5 6 
+
+5 4 5 
+
+P0: executed cpu bursts = 2, executed io bursts = 0, time elapsed = 2, enter io
+
+P1: executed cpu bursts = 2, executed io bursts = 0, time elapsed = 4, enter io
+
+P2: executed cpu bursts = 2, executed io bursts = 0, time elapsed = 6, quantum expired
+
+P3: executed cpu bursts = 2, executed io bursts = 0, time elapsed = 8, quantum expired
+
+P0: executed cpu bursts = 4, executed io bursts = 1, time elapsed = 10, quantum expired
+
+P2: executed cpu bursts = 4, executed io bursts = 0, time elapsed = 12, quantum expired
+
+P1: executed cpu bursts = 4, executed io bursts = 3, time elapsed = 14, quantum expired
+
+P3: executed cpu bursts = 4, executed io bursts = 0, time elapsed = 16, quantum expired
+
+P0: executed cpu bursts = 5, executed io bursts = 1, time elapsed = 17, completed
+
+P2: executed cpu bursts = 6, executed io bursts = 0, time elapsed = 19, quantum expired
+
+P1: executed cpu bursts = 6, executed io bursts = 3, time elapsed = 21, quantum expired
+
+P3: executed cpu bursts = 5, executed io bursts = 0, time elapsed = 22, enter io
+
+P2: executed cpu bursts = 7, executed io bursts = 0, time elapsed = 23, enter io
+
+P1: executed cpu bursts = 8, executed io bursts = 3, time elapsed = 25, quantum expired
+
+P1: executed cpu bursts = 9, executed io bursts = 3, time elapsed = 26, completed
+
+P3: executed cpu bursts = 7, executed io bursts = 4, time elapsed = 28, quantum expired
+
+P2: executed cpu bursts = 9, executed io bursts = 5, time elapsed = 30, quantum expired
+
+P3: executed cpu bursts = 9, executed io bursts = 4, time elapsed = 32, quantum expired
+
+P2: executed cpu bursts = 11, executed io bursts = 5, time elapsed = 34, quantum expired
+
+P3: executed cpu bursts = 10, executed io bursts = 4, time elapsed = 35, completed
+
+P2: executed cpu bursts = 13, executed io bursts = 5, time elapsed = 37, completed
+
+P0: turnaround time = 17, wait time = 11
+
+P1: turnaround time = 26, wait time = 14
+
+P3: turnaround time = 35, wait time = 21
+
+P2: turnaround time = 37, wait time = 19

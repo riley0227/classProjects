@@ -1,0 +1,228 @@
+Broker: 1 PIZ + 0 SAN = 1. Added Pizza delivery request. Produced: 1 PIZ + 0 SAN = 1 in 0.000 s.
+Broker: 1 PIZ + 1 SAN = 2. Added Sandwich delivery request. Produced: 1 PIZ + 1 SAN = 2 in 0.001 s.
+Broker: 0 PIZ + 1 SAN = 1. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 1 PIZ + 0 SAN = 1 consumed in 0.002 s.
+Broker: 0 PIZ + 0 SAN = 0. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 0 PIZ + 1 SAN = 1 consumed in 0.003 s.
+Broker: 1 PIZ + 0 SAN = 1. Added Pizza delivery request. Produced: 2 PIZ + 1 SAN = 3 in 0.011 s.
+Broker: 1 PIZ + 1 SAN = 2. Added Sandwich delivery request. Produced: 2 PIZ + 2 SAN = 4 in 0.013 s.
+Broker: 0 PIZ + 1 SAN = 1. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 2 PIZ + 0 SAN = 2 consumed in 0.015 s.
+Broker: 0 PIZ + 0 SAN = 0. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 0 PIZ + 2 SAN = 2 consumed in 0.022 s.
+Broker: 1 PIZ + 0 SAN = 1. Added Pizza delivery request. Produced: 3 PIZ + 2 SAN = 5 in 0.023 s.
+Broker: 1 PIZ + 1 SAN = 2. Added Sandwich delivery request. Produced: 3 PIZ + 3 SAN = 6 in 0.024 s.
+Broker: 0 PIZ + 1 SAN = 1. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 3 PIZ + 0 SAN = 3 consumed in 0.028 s.
+Broker: 1 PIZ + 1 SAN = 2. Added Pizza delivery request. Produced: 4 PIZ + 3 SAN = 7 in 0.034 s.
+Broker: 1 PIZ + 2 SAN = 3. Added Sandwich delivery request. Produced: 4 PIZ + 4 SAN = 8 in 0.035 s.
+Broker: 1 PIZ + 1 SAN = 2. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 3 PIZ + 1 SAN = 4 consumed in 0.041 s.
+Broker: 0 PIZ + 1 SAN = 1. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 1 PIZ + 2 SAN = 3 consumed in 0.042 s.
+Broker: 1 PIZ + 1 SAN = 2. Added Pizza delivery request. Produced: 5 PIZ + 4 SAN = 9 in 0.045 s.
+Broker: 1 PIZ + 2 SAN = 3. Added Sandwich delivery request. Produced: 5 PIZ + 5 SAN = 10 in 0.046 s.
+Broker: 1 PIZ + 1 SAN = 2. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 3 PIZ + 2 SAN = 5 consumed in 0.055 s.
+Broker: 2 PIZ + 1 SAN = 3. Added Pizza delivery request. Produced: 6 PIZ + 5 SAN = 11 in 0.056 s.
+Broker: 2 PIZ + 2 SAN = 4. Added Sandwich delivery request. Produced: 6 PIZ + 6 SAN = 12 in 0.058 s.
+Broker: 1 PIZ + 2 SAN = 3. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 2 PIZ + 2 SAN = 4 consumed in 0.061 s.
+Broker: 1 PIZ + 1 SAN = 2. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 3 PIZ + 3 SAN = 6 consumed in 0.068 s.
+Broker: 1 PIZ + 2 SAN = 3. Added Sandwich delivery request. Produced: 6 PIZ + 7 SAN = 13 in 0.069 s.
+Broker: 2 PIZ + 2 SAN = 4. Added Pizza delivery request. Produced: 7 PIZ + 7 SAN = 14 in 0.070 s.
+Broker: 2 PIZ + 3 SAN = 5. Added Sandwich delivery request. Produced: 7 PIZ + 8 SAN = 15 in 0.081 s.
+Broker: 1 PIZ + 3 SAN = 4. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 3 PIZ + 2 SAN = 5 consumed in 0.082 s.
+Broker: 1 PIZ + 2 SAN = 3. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 3 PIZ + 4 SAN = 7 consumed in 0.083 s.
+Broker: 2 PIZ + 2 SAN = 4. Added Pizza delivery request. Produced: 8 PIZ + 8 SAN = 16 in 0.084 s.
+Broker: 2 PIZ + 3 SAN = 5. Added Sandwich delivery request. Produced: 8 PIZ + 9 SAN = 17 in 0.092 s.
+Broker: 3 PIZ + 3 SAN = 6. Added Pizza delivery request. Produced: 9 PIZ + 9 SAN = 18 in 0.095 s.
+Broker: 3 PIZ + 2 SAN = 5. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 3 PIZ + 5 SAN = 8 consumed in 0.096 s.
+Broker: 2 PIZ + 2 SAN = 4. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 4 PIZ + 2 SAN = 6 consumed in 0.101 s.
+Broker: 2 PIZ + 3 SAN = 5. Added Sandwich delivery request. Produced: 9 PIZ + 10 SAN = 19 in 0.103 s.
+Broker: 3 PIZ + 3 SAN = 6. Added Pizza delivery request. Produced: 10 PIZ + 10 SAN = 20 in 0.106 s.
+Broker: 3 PIZ + 2 SAN = 5. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 3 PIZ + 6 SAN = 9 consumed in 0.109 s.
+Broker: 3 PIZ + 3 SAN = 6. Added Sandwich delivery request. Produced: 10 PIZ + 11 SAN = 21 in 0.114 s.
+Broker: 4 PIZ + 3 SAN = 7. Added Pizza delivery request. Produced: 11 PIZ + 11 SAN = 22 in 0.118 s.
+Broker: 3 PIZ + 3 SAN = 6. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 5 PIZ + 2 SAN = 7 consumed in 0.120 s.
+Broker: 3 PIZ + 2 SAN = 5. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 3 PIZ + 7 SAN = 10 consumed in 0.123 s.
+Broker: 3 PIZ + 3 SAN = 6. Added Sandwich delivery request. Produced: 11 PIZ + 12 SAN = 23 in 0.126 s.
+Broker: 4 PIZ + 3 SAN = 7. Added Pizza delivery request. Produced: 12 PIZ + 12 SAN = 24 in 0.129 s.
+Broker: 3 PIZ + 3 SAN = 6. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 4 PIZ + 7 SAN = 11 consumed in 0.136 s.
+Broker: 3 PIZ + 4 SAN = 7. Added Sandwich delivery request. Produced: 12 PIZ + 13 SAN = 25 in 0.137 s.
+Broker: 3 PIZ + 3 SAN = 6. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 5 PIZ + 3 SAN = 8 consumed in 0.140 s.
+Broker: 4 PIZ + 3 SAN = 7. Added Pizza delivery request. Produced: 13 PIZ + 13 SAN = 26 in 0.141 s.
+Broker: 4 PIZ + 4 SAN = 8. Added Sandwich delivery request. Produced: 13 PIZ + 14 SAN = 27 in 0.149 s.
+Broker: 3 PIZ + 4 SAN = 7. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 5 PIZ + 7 SAN = 12 consumed in 0.150 s.
+Broker: 4 PIZ + 4 SAN = 8. Added Pizza delivery request. Produced: 14 PIZ + 14 SAN = 28 in 0.152 s.
+Broker: 4 PIZ + 3 SAN = 7. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 5 PIZ + 4 SAN = 9 consumed in 0.159 s.
+Broker: 4 PIZ + 4 SAN = 8. Added Sandwich delivery request. Produced: 14 PIZ + 15 SAN = 29 in 0.160 s.
+Broker: 5 PIZ + 4 SAN = 9. Added Pizza delivery request. Produced: 15 PIZ + 15 SAN = 30 in 0.163 s.
+Broker: 4 PIZ + 4 SAN = 8. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 6 PIZ + 7 SAN = 13 consumed in 0.164 s.
+Broker: 4 PIZ + 5 SAN = 9. Added Sandwich delivery request. Produced: 15 PIZ + 16 SAN = 31 in 0.171 s.
+Broker: 5 PIZ + 5 SAN = 10. Added Pizza delivery request. Produced: 16 PIZ + 16 SAN = 32 in 0.174 s.
+Broker: 5 PIZ + 4 SAN = 9. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 6 PIZ + 8 SAN = 14 consumed in 0.178 s.
+Broker: 4 PIZ + 4 SAN = 8. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 6 PIZ + 4 SAN = 10 consumed in 0.179 s.
+Broker: 4 PIZ + 5 SAN = 9. Added Sandwich delivery request. Produced: 16 PIZ + 17 SAN = 33 in 0.183 s.
+Broker: 5 PIZ + 5 SAN = 10. Added Pizza delivery request. Produced: 17 PIZ + 17 SAN = 34 in 0.186 s.
+Broker: 5 PIZ + 4 SAN = 9. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 6 PIZ + 9 SAN = 15 consumed in 0.191 s.
+Broker: 5 PIZ + 5 SAN = 10. Added Sandwich delivery request. Produced: 17 PIZ + 18 SAN = 35 in 0.194 s.
+Broker: 6 PIZ + 5 SAN = 11. Added Pizza delivery request. Produced: 18 PIZ + 18 SAN = 36 in 0.197 s.
+Broker: 5 PIZ + 5 SAN = 10. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 7 PIZ + 4 SAN = 11 consumed in 0.199 s.
+Broker: 5 PIZ + 4 SAN = 9. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 6 PIZ + 10 SAN = 16 consumed in 0.205 s.
+Broker: 5 PIZ + 5 SAN = 10. Added Sandwich delivery request. Produced: 18 PIZ + 19 SAN = 37 in 0.206 s.
+Broker: 6 PIZ + 5 SAN = 11. Added Pizza delivery request. Produced: 19 PIZ + 19 SAN = 38 in 0.209 s.
+Broker: 6 PIZ + 6 SAN = 12. Added Sandwich delivery request. Produced: 19 PIZ + 20 SAN = 39 in 0.217 s.
+Broker: 5 PIZ + 6 SAN = 11. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 7 PIZ + 10 SAN = 17 consumed in 0.218 s.
+Broker: 5 PIZ + 5 SAN = 10. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 7 PIZ + 5 SAN = 12 consumed in 0.219 s.
+Broker: 6 PIZ + 5 SAN = 11. Added Pizza delivery request. Produced: 20 PIZ + 20 SAN = 40 in 0.221 s.
+Broker: 6 PIZ + 6 SAN = 12. Added Sandwich delivery request. Produced: 20 PIZ + 21 SAN = 41 in 0.228 s.
+Broker: 5 PIZ + 6 SAN = 11. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 8 PIZ + 10 SAN = 18 consumed in 0.232 s.
+Broker: 6 PIZ + 6 SAN = 12. Added Pizza delivery request. Produced: 21 PIZ + 21 SAN = 42 in 0.233 s.
+Broker: 6 PIZ + 5 SAN = 11. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 7 PIZ + 6 SAN = 13 consumed in 0.239 s.
+Broker: 6 PIZ + 6 SAN = 12. Added Sandwich delivery request. Produced: 21 PIZ + 22 SAN = 43 in 0.240 s.
+Broker: 7 PIZ + 6 SAN = 13. Added Pizza delivery request. Produced: 22 PIZ + 22 SAN = 44 in 0.244 s.
+Broker: 6 PIZ + 6 SAN = 12. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 9 PIZ + 10 SAN = 19 consumed in 0.245 s.
+Broker: 6 PIZ + 7 SAN = 13. Added Sandwich delivery request. Produced: 22 PIZ + 23 SAN = 45 in 0.251 s.
+Broker: 7 PIZ + 7 SAN = 14. Added Pizza delivery request. Produced: 23 PIZ + 23 SAN = 46 in 0.255 s.
+Broker: 7 PIZ + 6 SAN = 13. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 9 PIZ + 11 SAN = 20 consumed in 0.258 s.
+Broker: 6 PIZ + 6 SAN = 12. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 8 PIZ + 6 SAN = 14 consumed in 0.260 s.
+Broker: 6 PIZ + 7 SAN = 13. Added Sandwich delivery request. Produced: 23 PIZ + 24 SAN = 47 in 0.262 s.
+Broker: 7 PIZ + 7 SAN = 14. Added Pizza delivery request. Produced: 24 PIZ + 24 SAN = 48 in 0.267 s.
+Broker: 7 PIZ + 6 SAN = 13. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 9 PIZ + 12 SAN = 21 consumed in 0.272 s.
+Broker: 7 PIZ + 7 SAN = 14. Added Sandwich delivery request. Produced: 24 PIZ + 25 SAN = 49 in 0.273 s.
+Broker: 8 PIZ + 7 SAN = 15. Added Pizza delivery request. Produced: 25 PIZ + 25 SAN = 50 in 0.278 s.
+Broker: 7 PIZ + 7 SAN = 14. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 9 PIZ + 6 SAN = 15 consumed in 0.279 s.
+Broker: 7 PIZ + 8 SAN = 15. Added Sandwich delivery request. Produced: 25 PIZ + 26 SAN = 51 in 0.285 s.
+Broker: 7 PIZ + 7 SAN = 14. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 9 PIZ + 13 SAN = 22 consumed in 0.286 s.
+Broker: 8 PIZ + 7 SAN = 15. Added Pizza delivery request. Produced: 26 PIZ + 26 SAN = 52 in 0.290 s.
+Broker: 8 PIZ + 8 SAN = 16. Added Sandwich delivery request. Produced: 26 PIZ + 27 SAN = 53 in 0.296 s.
+Broker: 7 PIZ + 8 SAN = 15. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 10 PIZ + 6 SAN = 16 consumed in 0.299 s.
+Broker: 7 PIZ + 7 SAN = 14. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 9 PIZ + 14 SAN = 23 consumed in 0.300 s.
+Broker: 8 PIZ + 7 SAN = 15. Added Pizza delivery request. Produced: 27 PIZ + 27 SAN = 54 in 0.302 s.
+Broker: 8 PIZ + 8 SAN = 16. Added Sandwich delivery request. Produced: 27 PIZ + 28 SAN = 55 in 0.308 s.
+Broker: 9 PIZ + 8 SAN = 17. Added Pizza delivery request. Produced: 28 PIZ + 28 SAN = 56 in 0.313 s.
+Broker: 8 PIZ + 8 SAN = 16. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 10 PIZ + 14 SAN = 24 consumed in 0.314 s.
+Broker: 8 PIZ + 7 SAN = 15. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 10 PIZ + 7 SAN = 17 consumed in 0.319 s.
+Broker: 8 PIZ + 8 SAN = 16. Added Sandwich delivery request. Produced: 28 PIZ + 29 SAN = 57 in 0.320 s.
+Broker: 9 PIZ + 8 SAN = 17. Added Pizza delivery request. Produced: 29 PIZ + 29 SAN = 58 in 0.324 s.
+Broker: 8 PIZ + 8 SAN = 16. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 11 PIZ + 14 SAN = 25 consumed in 0.327 s.
+Broker: 9 PIZ + 8 SAN = 17. Added Pizza delivery request. Produced: 30 PIZ + 29 SAN = 59 in 0.335 s.
+Broker: 9 PIZ + 7 SAN = 16. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 10 PIZ + 8 SAN = 18 consumed in 0.339 s.
+Broker: 9 PIZ + 8 SAN = 17. Added Sandwich delivery request. Produced: 30 PIZ + 30 SAN = 60 in 0.340 s.
+Broker: 8 PIZ + 8 SAN = 16. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 12 PIZ + 14 SAN = 26 consumed in 0.341 s.
+Broker: 9 PIZ + 8 SAN = 17. Added Pizza delivery request. Produced: 31 PIZ + 30 SAN = 61 in 0.346 s.
+Broker: 9 PIZ + 7 SAN = 16. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 12 PIZ + 15 SAN = 27 consumed in 0.354 s.
+Broker: 9 PIZ + 8 SAN = 17. Added Sandwich delivery request. Produced: 31 PIZ + 31 SAN = 62 in 0.356 s.
+Broker: 10 PIZ + 8 SAN = 18. Added Pizza delivery request. Produced: 32 PIZ + 31 SAN = 63 in 0.357 s.
+Broker: 9 PIZ + 8 SAN = 17. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 11 PIZ + 8 SAN = 19 consumed in 0.358 s.
+Broker: 9 PIZ + 7 SAN = 16. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 12 PIZ + 16 SAN = 28 consumed in 0.368 s.
+Broker: 10 PIZ + 7 SAN = 17. Added Pizza delivery request. Produced: 33 PIZ + 31 SAN = 64 in 0.369 s.
+Broker: 10 PIZ + 8 SAN = 18. Added Sandwich delivery request. Produced: 33 PIZ + 32 SAN = 65 in 0.370 s.
+Broker: 9 PIZ + 8 SAN = 17. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 12 PIZ + 8 SAN = 20 consumed in 0.378 s.
+Broker: 10 PIZ + 8 SAN = 18. Added Pizza delivery request. Produced: 34 PIZ + 32 SAN = 66 in 0.381 s.
+Broker: 10 PIZ + 7 SAN = 17. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 12 PIZ + 17 SAN = 29 consumed in 0.382 s.
+Broker: 10 PIZ + 8 SAN = 18. Added Sandwich delivery request. Produced: 34 PIZ + 33 SAN = 67 in 0.383 s.
+Broker: 11 PIZ + 8 SAN = 19. Added Pizza delivery request. Produced: 35 PIZ + 33 SAN = 68 in 0.392 s.
+Broker: 10 PIZ + 8 SAN = 18. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 13 PIZ + 17 SAN = 30 consumed in 0.396 s.
+Broker: 10 PIZ + 7 SAN = 17. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 12 PIZ + 9 SAN = 21 consumed in 0.397 s.
+Broker: 10 PIZ + 8 SAN = 18. Added Sandwich delivery request. Produced: 35 PIZ + 34 SAN = 69 in 0.398 s.
+Broker: 11 PIZ + 8 SAN = 19. Added Pizza delivery request. Produced: 36 PIZ + 34 SAN = 70 in 0.404 s.
+Broker: 10 PIZ + 8 SAN = 18. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 14 PIZ + 17 SAN = 31 consumed in 0.409 s.
+Broker: 11 PIZ + 8 SAN = 19. Added Pizza delivery request. Produced: 37 PIZ + 34 SAN = 71 in 0.415 s.
+Broker: 11 PIZ + 7 SAN = 18. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 12 PIZ + 10 SAN = 22 consumed in 0.416 s.
+Broker: 11 PIZ + 8 SAN = 19. Added Sandwich delivery request. Produced: 37 PIZ + 35 SAN = 72 in 0.417 s.
+Broker: 10 PIZ + 8 SAN = 18. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 15 PIZ + 17 SAN = 32 consumed in 0.422 s.
+Broker: 11 PIZ + 8 SAN = 19. Added Pizza delivery request. Produced: 38 PIZ + 35 SAN = 73 in 0.426 s.
+Broker: 11 PIZ + 7 SAN = 18. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 15 PIZ + 18 SAN = 33 consumed in 0.435 s.
+Broker: 11 PIZ + 8 SAN = 19. Added Sandwich delivery request. Produced: 38 PIZ + 36 SAN = 74 in 0.437 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 39 PIZ + 36 SAN = 75 in 0.438 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 13 PIZ + 10 SAN = 23 consumed in 0.438 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 40 PIZ + 36 SAN = 76 in 0.448 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 15 PIZ + 19 SAN = 34 consumed in 0.450 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 40 PIZ + 37 SAN = 77 in 0.451 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 14 PIZ + 10 SAN = 24 consumed in 0.458 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 41 PIZ + 37 SAN = 78 in 0.460 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 16 PIZ + 19 SAN = 35 consumed in 0.463 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 42 PIZ + 37 SAN = 79 in 0.471 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 16 PIZ + 20 SAN = 36 consumed in 0.477 s.
+Broker: 11 PIZ + 7 SAN = 18. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 15 PIZ + 10 SAN = 25 consumed in 0.478 s.
+Broker: 11 PIZ + 8 SAN = 19. Added Sandwich delivery request. Produced: 42 PIZ + 38 SAN = 80 in 0.479 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 43 PIZ + 38 SAN = 81 in 0.482 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 16 PIZ + 21 SAN = 37 consumed in 0.490 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 43 PIZ + 39 SAN = 82 in 0.492 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 16 PIZ + 10 SAN = 26 consumed in 0.497 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 44 PIZ + 39 SAN = 83 in 0.498 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 17 PIZ + 21 SAN = 38 consumed in 0.504 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 45 PIZ + 39 SAN = 84 in 0.510 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 16 PIZ + 11 SAN = 27 consumed in 0.517 s.
+Broker: 11 PIZ + 7 SAN = 18. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 18 PIZ + 21 SAN = 39 consumed in 0.518 s.
+Broker: 11 PIZ + 8 SAN = 19. Added Sandwich delivery request. Produced: 45 PIZ + 40 SAN = 85 in 0.519 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 46 PIZ + 40 SAN = 86 in 0.521 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 18 PIZ + 22 SAN = 40 consumed in 0.531 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 46 PIZ + 41 SAN = 87 in 0.532 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 17 PIZ + 11 SAN = 28 consumed in 0.536 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 47 PIZ + 41 SAN = 88 in 0.537 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 18 PIZ + 23 SAN = 41 consumed in 0.544 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 47 PIZ + 42 SAN = 89 in 0.546 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 18 PIZ + 11 SAN = 29 consumed in 0.555 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 48 PIZ + 42 SAN = 90 in 0.557 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 19 PIZ + 23 SAN = 42 consumed in 0.558 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 49 PIZ + 42 SAN = 91 in 0.568 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 19 PIZ + 24 SAN = 43 consumed in 0.571 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 49 PIZ + 43 SAN = 92 in 0.573 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 19 PIZ + 11 SAN = 30 consumed in 0.575 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 50 PIZ + 43 SAN = 93 in 0.580 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 19 PIZ + 25 SAN = 44 consumed in 0.585 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 50 PIZ + 44 SAN = 94 in 0.586 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 20 PIZ + 11 SAN = 31 consumed in 0.594 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 51 PIZ + 44 SAN = 95 in 0.596 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 20 PIZ + 25 SAN = 45 consumed in 0.598 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 52 PIZ + 44 SAN = 96 in 0.607 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 20 PIZ + 26 SAN = 46 consumed in 0.612 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 52 PIZ + 45 SAN = 97 in 0.613 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 21 PIZ + 11 SAN = 32 consumed in 0.614 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 53 PIZ + 45 SAN = 98 in 0.618 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 21 PIZ + 26 SAN = 47 consumed in 0.625 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 54 PIZ + 45 SAN = 99 in 0.629 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 21 PIZ + 12 SAN = 33 consumed in 0.633 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 54 PIZ + 46 SAN = 100 in 0.634 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 22 PIZ + 26 SAN = 48 consumed in 0.639 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 55 PIZ + 46 SAN = 101 in 0.641 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 22 PIZ + 27 SAN = 49 consumed in 0.652 s.
+Broker: 11 PIZ + 7 SAN = 18. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 22 PIZ + 12 SAN = 34 consumed in 0.653 s.
+Broker: 12 PIZ + 7 SAN = 19. Added Pizza delivery request. Produced: 56 PIZ + 46 SAN = 102 in 0.654 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 56 PIZ + 47 SAN = 103 in 0.655 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 23 PIZ + 27 SAN = 50 consumed in 0.665 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 57 PIZ + 47 SAN = 104 in 0.667 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 22 PIZ + 13 SAN = 35 consumed in 0.672 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 57 PIZ + 48 SAN = 105 in 0.674 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 24 PIZ + 27 SAN = 51 consumed in 0.679 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Pizza delivery request. Produced: 58 PIZ + 48 SAN = 106 in 0.680 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 22 PIZ + 14 SAN = 36 consumed in 0.692 s.
+Broker: 11 PIZ + 7 SAN = 18. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 25 PIZ + 27 SAN = 52 consumed in 0.693 s.
+Broker: 12 PIZ + 7 SAN = 19. Added Pizza delivery request. Produced: 59 PIZ + 48 SAN = 107 in 0.694 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 59 PIZ + 49 SAN = 108 in 0.695 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 25 PIZ + 28 SAN = 53 consumed in 0.707 s.
+Broker: 13 PIZ + 7 SAN = 20. Added Pizza delivery request. Produced: 60 PIZ + 49 SAN = 109 in 0.708 s.
+Broker: 12 PIZ + 7 SAN = 19. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 23 PIZ + 14 SAN = 37 consumed in 0.712 s.
+Broker: 12 PIZ + 8 SAN = 20. Added Sandwich delivery request. Produced: 60 PIZ + 50 SAN = 110 in 0.713 s.
+Broker: 11 PIZ + 8 SAN = 19. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 26 PIZ + 28 SAN = 54 consumed in 0.720 s.
+Broker: 11 PIZ + 7 SAN = 18. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 23 PIZ + 15 SAN = 38 consumed in 0.731 s.
+Broker: 10 PIZ + 7 SAN = 17. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 27 PIZ + 28 SAN = 55 consumed in 0.734 s.
+Broker: 10 PIZ + 6 SAN = 16. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 27 PIZ + 29 SAN = 56 consumed in 0.747 s.
+Broker: 9 PIZ + 6 SAN = 15. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 24 PIZ + 15 SAN = 39 consumed in 0.751 s.
+Broker: 8 PIZ + 6 SAN = 14. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 28 PIZ + 29 SAN = 57 consumed in 0.761 s.
+Broker: 8 PIZ + 5 SAN = 13. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 24 PIZ + 16 SAN = 40 consumed in 0.770 s.
+Broker: 7 PIZ + 5 SAN = 12. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 29 PIZ + 29 SAN = 58 consumed in 0.774 s.
+Broker: 6 PIZ + 5 SAN = 11. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 30 PIZ + 29 SAN = 59 consumed in 0.788 s.
+Broker: 6 PIZ + 4 SAN = 10. Delivery service B consumed Sandwich delivery request.  Delivery service B totals: 24 PIZ + 17 SAN = 41 consumed in 0.790 s.
+Broker: 5 PIZ + 4 SAN = 9. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 31 PIZ + 29 SAN = 60 consumed in 0.801 s.
+Broker: 4 PIZ + 4 SAN = 8. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 25 PIZ + 17 SAN = 42 consumed in 0.809 s.
+Broker: 4 PIZ + 3 SAN = 7. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 31 PIZ + 30 SAN = 61 consumed in 0.815 s.
+Broker: 3 PIZ + 3 SAN = 6. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 26 PIZ + 17 SAN = 43 consumed in 0.829 s.
+Broker: 3 PIZ + 2 SAN = 5. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 31 PIZ + 31 SAN = 62 consumed in 0.830 s.
+Broker: 2 PIZ + 2 SAN = 4. Delivery service A consumed Pizza delivery request.  Delivery service A totals: 32 PIZ + 31 SAN = 63 consumed in 0.843 s.
+Broker: 1 PIZ + 2 SAN = 3. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 27 PIZ + 17 SAN = 44 consumed in 0.848 s.
+Broker: 1 PIZ + 1 SAN = 2. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 32 PIZ + 32 SAN = 64 consumed in 0.857 s.
+Broker: 0 PIZ + 1 SAN = 1. Delivery service B consumed Pizza delivery request.  Delivery service B totals: 28 PIZ + 17 SAN = 45 consumed in 0.867 s.
+Broker: 0 PIZ + 0 SAN = 0. Delivery service A consumed Sandwich delivery request.  Delivery service A totals: 32 PIZ + 33 SAN = 65 consumed in 0.870 s.
+
+REQUEST REPORT
+----------------------------------------
+Pizza delivery request producer generated 60 requests
+Sandwich delivery request producer generated 50 requests
+Delivery service A consumed 32 PIZ + 33 SAN = 65 total
+Delivery service B consumed 28 PIZ + 17 SAN = 45 total
+Elapsed time 0.884 s
